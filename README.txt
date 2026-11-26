@@ -1,7 +1,14 @@
-LAWSON 藥品法規網站原型
+LAWSON 藥品法規網站 V2
 
-1. 直接雙擊 index.html 可在瀏覽器預覽。
-2. index.html 為單檔靜態網站，不需要 Node.js 或伺服器即可預覽。
-3. data.json 是後續擴充資料清單的參考格式。
-4. 正式放到官方網站時，請由網站維護單位把整個資料夾部署到 HTTPS 網站目錄。
-5. 目前版本採官方來源連結，不直接公開 OneDrive 內部檔案。正式公開全文前，需逐項確認著作權、版本、OCR 品質與公開權限。
+本版保留 V1 全部功能，並將首頁四個統計卡改為地區分類：
+- 台灣：12 筆
+- 美國：6 筆
+- 歐盟：3 筆
+- PIC/S：4 筆
+
+統計值由頁面資料自動計算；未來增加 data 後會自動更新。點擊統計卡可直接篩選該地區，再次點擊可取消篩選。
+
+GitHub 更新方式：
+1. 不要刪除既有版本。先在目前 Repository 建立 v1 branch 或 Release 保存第一版。
+2. 再將 V2 的 index.html、data.json、README.txt 上傳覆蓋 main branch。
+3. GitHub Pages 使用 main /(root) 時會自動發布 V2。
