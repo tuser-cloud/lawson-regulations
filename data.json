@@ -1,0 +1,252 @@
+[
+  {
+    "title": "藥品查驗登記審查準則",
+    "region": "台灣",
+    "topic": "查驗登記",
+    "type": "法規命令",
+    "status": "現行法規",
+    "date": "2026-11-09",
+    "desc": "新藥、學名藥、原料藥、變更及展延的核心送件規則。",
+    "source": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030057"
+  },
+  {
+    "title": "藥事法",
+    "region": "台灣",
+    "topic": "法規基礎",
+    "type": "法律",
+    "status": "須核對施行日",
+    "date": "2026-11-09",
+    "desc": "查驗登記、許可證、資料保護、專利連結及製造管理的主要法源。",
+    "source": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030001"
+  },
+  {
+    "title": "藥事法施行細則",
+    "region": "台灣",
+    "topic": "法規基礎",
+    "type": "法規命令",
+    "status": "現行法規",
+    "date": "2026-11-09",
+    "desc": "補充藥事法執行、藥商與證照等事項。",
+    "source": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030002"
+  },
+  {
+    "title": "藥品生體可用率及生體相等性試驗作業準則",
+    "region": "台灣",
+    "topic": "BA／BE",
+    "type": "法規命令",
+    "status": "現行法規",
+    "date": "2026-11-09",
+    "desc": "BA／BE 試驗、替代試驗及相關技術要求。",
+    "source": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030065"
+  },
+  {
+    "title": "藥品優良臨床試驗作業準則",
+    "region": "台灣",
+    "topic": "臨床試驗",
+    "type": "法規命令",
+    "status": "現行法規",
+    "date": "2026-11-09",
+    "desc": "臨床及 BA／BE 試驗品質、受試者與紀錄要求。",
+    "source": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030056"
+  },
+  {
+    "title": "西藥專利連結施行辦法",
+    "region": "台灣",
+    "topic": "專利連結",
+    "type": "法規命令",
+    "status": "現行法規",
+    "date": "2026-11-09",
+    "desc": "新藥專利資訊與學名藥專利聲明等事項。",
+    "source": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030103"
+  },
+  {
+    "title": "藥物優良製造準則",
+    "region": "台灣",
+    "topic": "GMP／製造",
+    "type": "法規命令",
+    "status": "現行法規",
+    "date": "2026-11-09",
+    "desc": "製造與品質系統的基本要求。",
+    "source": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030073"
+  },
+  {
+    "title": "藥物製造業者檢查辦法",
+    "region": "台灣",
+    "topic": "GMP／製造",
+    "type": "法規命令",
+    "status": "現行法規",
+    "date": "2026-11-09",
+    "desc": "國內外製造廠檢查、工廠資料與查廠程序。",
+    "source": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030009"
+  },
+  {
+    "title": "學名藥查驗登記",
+    "region": "台灣",
+    "topic": "學名藥",
+    "type": "申請說明",
+    "status": "官方資訊頁",
+    "date": "2026-11-09",
+    "desc": "學名藥申請說明、RTF 與相關送件資源。",
+    "source": "https://www.cde.org.tw/drug/1372/2556/18859/18870/18873/normalPost"
+  },
+  {
+    "title": "原料藥查驗登記",
+    "region": "台灣",
+    "topic": "原料藥／DMF",
+    "type": "申請說明",
+    "status": "官方資訊頁",
+    "date": "2026-11-09",
+    "desc": "原料藥申請、DMF 與 RTF 相關資訊。",
+    "source": "https://www.cde.org.tw/drug/1372/2556/18891/18893/18897/normalPost"
+  },
+  {
+    "title": "藥品查驗登記專區",
+    "region": "台灣",
+    "topic": "查驗登記",
+    "type": "入口頁",
+    "status": "官方入口",
+    "date": "2026-11-12",
+    "desc": "TFDA 查驗登記、申請須知、表單、CTD/eCTD 的整合入口。",
+    "source": "https://www.fda.gov.tw/tc/site.aspx?sid=2008"
+  },
+  {
+    "title": "藥品 GDP 相關法規、公告或函",
+    "region": "台灣",
+    "topic": "GDP／運銷",
+    "type": "公告索引",
+    "status": "效力逐項核對",
+    "date": "2026-11-12",
+    "desc": "藥品 GDP 公告、函釋與政策資料索引。",
+    "source": "https://www.fda.gov.tw/TC/siteList.aspx?sid=4071"
+  },
+  {
+    "title": "21 CFR Part 210",
+    "region": "美國",
+    "topic": "GMP／製造",
+    "type": "聯邦法規",
+    "status": "eCFR 快照",
+    "date": "2026-11-09",
+    "desc": "藥品製造、加工、包裝或持有的一般 CGMP 規範。",
+    "source": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-210"
+  },
+  {
+    "title": "21 CFR Part 211",
+    "region": "美國",
+    "topic": "GMP／製造",
+    "type": "聯邦法規",
+    "status": "eCFR 快照",
+    "date": "2026-11-09",
+    "desc": "成品藥 CGMP 要求。",
+    "source": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-211"
+  },
+  {
+    "title": "21 CFR Part 314",
+    "region": "美國",
+    "topic": "查驗登記",
+    "type": "聯邦法規",
+    "status": "eCFR 快照",
+    "date": "2026-11-09",
+    "desc": "新藥與學名藥申請及相關 FDA 行政程序。",
+    "source": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-D/part-314"
+  },
+  {
+    "title": "21 CFR Part 320",
+    "region": "美國",
+    "topic": "BA／BE",
+    "type": "聯邦法規",
+    "status": "eCFR 快照",
+    "date": "2026-11-09",
+    "desc": "生體可用率與生體相等性要求。",
+    "source": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-D/part-320"
+  },
+  {
+    "title": "ANDA 申請說明",
+    "region": "美國",
+    "topic": "學名藥",
+    "type": "申請說明",
+    "status": "FDA 官方資訊",
+    "date": "2026-11-09",
+    "desc": "美國學名藥簡化新藥申請（ANDA）入口與說明。",
+    "source": "https://www.fda.gov/drugs/types-applications/abbreviated-new-drug-application-anda"
+  },
+  {
+    "title": "Drug Master Files",
+    "region": "美國",
+    "topic": "原料藥／DMF",
+    "type": "申請說明",
+    "status": "FDA 官方資訊",
+    "date": "2026-11-09",
+    "desc": "美國 DMF 類型、提交及引用機制。",
+    "source": "https://www.fda.gov/drugs/forms-submission-requirements/drug-master-files-dmfs"
+  },
+  {
+    "title": "PIC/S PE 009-18 Introduction",
+    "region": "PIC/S",
+    "topic": "GMP／製造",
+    "type": "國際規範",
+    "status": "版本需核對",
+    "date": "2026-09-24",
+    "desc": "PIC/S GMP Guide 架構、適用範圍與歷史。",
+    "source": "https://picscheme.org/en/publications"
+  },
+  {
+    "title": "PIC/S PE 009-18 Part I",
+    "region": "PIC/S",
+    "topic": "GMP／製造",
+    "type": "國際規範",
+    "status": "版本需核對",
+    "date": "2026-09-24",
+    "desc": "藥品製劑製造的 GMP 原則與章節。",
+    "source": "https://picscheme.org/en/publications"
+  },
+  {
+    "title": "PIC/S PE 009-18 Part II API",
+    "region": "PIC/S",
+    "topic": "原料藥／DMF",
+    "type": "國際規範",
+    "status": "版本需核對",
+    "date": "2026-09-24",
+    "desc": "原料藥製造 GMP 要求。",
+    "source": "https://picscheme.org/en/publications"
+  },
+  {
+    "title": "PIC/S PE 009-18 Annexes",
+    "region": "PIC/S",
+    "topic": "GMP／製造",
+    "type": "國際規範",
+    "status": "版本需核對",
+    "date": "2026-09-24",
+    "desc": "無菌、生物藥品等特定製造領域附件。",
+    "source": "https://picscheme.org/en/publications"
+  },
+  {
+    "title": "EudraLex Volume 2A Chapter 1",
+    "region": "歐盟",
+    "topic": "查驗登記",
+    "type": "官方指引",
+    "status": "無獨立法律效力",
+    "date": "2019",
+    "desc": "歐盟藥品上市許可程序指引。",
+    "source": "https://health.ec.europa.eu/medicinal-products/eudralex/eudralex-volume-2_en"
+  },
+  {
+    "title": "EudraLex Volume 2B CTD",
+    "region": "歐盟",
+    "topic": "CTD／eCTD",
+    "type": "官方指引",
+    "status": "版本需核對",
+    "date": "2026-11-09",
+    "desc": "歐盟 CTD 模組與文件格式指引。",
+    "source": "https://health.ec.europa.eu/medicinal-products/eudralex/eudralex-volume-2_en"
+  },
+  {
+    "title": "Bioanalytical method validation",
+    "region": "歐盟",
+    "topic": "BA／BE",
+    "type": "科學指引",
+    "status": "正式指引",
+    "date": "2026-11-12",
+    "desc": "生物分析方法確效與研究樣品分析的關鍵要求。",
+    "source": "https://www.ema.europa.eu/en/scientific-guidelines/bioanalytical-method-validation"
+  }
+]
